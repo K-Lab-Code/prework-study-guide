@@ -1,2 +1,2 @@
 # prework-study-guide
-The Bootcamps practice repository for the prework assignment
+A study guide for course pre-work
